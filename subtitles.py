@@ -18,6 +18,7 @@ def produce_dict(filename):
     srt_dict['filename'] = [filename] * len(start)
     return srt_dict
 
-d = produce_dict('c:\\yahel\\The Simpsons.s25e11.srt')
+d = produce_dict('The Simpsons.s25e11.srt')
 import pandas
-pandas.DataFrame.from_dict(d)
+pan = pandas.DataFrame.from_dict(d)
+pan.to_csv("The Simpsons.s25e11.csv")
