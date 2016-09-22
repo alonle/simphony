@@ -29,16 +29,15 @@ def find_speaker(sentence, df, previous_loc):
     def dist_from_previous(previous_loc, loc):
         return abs(loc-previous_loc)
 
-    df = pandas.DataFrame(df)
+    # df = df.copy()
     df['subsentence'] = df.apply(find_subsentence(sentence), axis=1)
     len_exact = len(df[df['subsentence'] == True])
     if len_exact > 0:
         loc_list = df[df['subsentence'] == True].index.tolist()
         list_dist = [dist_from_previous(previous_loc, i) for i in loc_list]
-        loc = loc_list[list_dist.index(min(list_dist))]
-        df.score.iloc[loc] = 1
-        # print df.iloc[loc].speaker
-        return loc, df.iloc[loc]
+        col_index = loc_list[list_dist.index(min(list_dist))]
+        df.loc[col_index, 'score'] = 1
+        return col_index, df.iloc[col_index]
 
     else:
         df['score'] = df.apply(calc_diff_score(sentence), axis=1)
