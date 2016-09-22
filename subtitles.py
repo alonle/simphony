@@ -18,8 +18,8 @@ def produce_dict(filename):
     srt_dict['filename'] = [filename] * len(start)
     return srt_dict
 
-// Usage example: 
-//d = produce_dict('The Simpsons.s25e11.srt')
-//import pandas
-//pan = pandas.DataFrame.from_dict(d)
-//pan.to_csv("The Simpsons.s25e11.csv")
+# Usage example: 
+#d = produce_dict('The Simpsons.s25e11.srt')
+#import pandas
+#pan = pandas.DataFrame.from_dict(d)
+#pan.to_csv("The Simpsons.s25e11.csv")
