@@ -1,12 +1,9 @@
 from gensim.models import Word2Vec
-from gensim.models import Doc2Vec
 import numpy as np
-import pandas
-from nltk.corpus import stopwords
 import re
+# import pandas
+# from nltk.corpus import stopwords
 
-# model = Word2Vec.load_word2vec_format('GoogleNews-vectors-negative300.bin', binary=True)
-# model = Doc2Vec.load_word2vec_format('GoogleNews-vectors-negative300.bin', binary=True)  # C binary format
 
 def clean_text(line):
     if isinstance(line, str):
@@ -21,33 +18,34 @@ def clean_text(line):
     #     return no_stopwords(new_line)
 
 
-def no_stopwords(sentence):
-    return [w for w in sentence if w not in stopwords]
+# def no_stopwords(sentence):
+#     return [w for w in sentence if w not in stopwords]
 
-
-def read_scv(episode='s21e13', sentence_to_compare='lets have another beer'):
-    # df = pandas.read_csv('subs_with_speaker-' + episode + '.csv')
-    df = pandas.read_csv('segments.csv')
-    score = []
-    for i, row in df.iterrows():
-        # if i != 1392:
-        #     continue
-        text = row.text
-        new_text = clean_text(text)
-        # print new_text
-        if new_text:
-            score.append(calcualte_similairy(new_text, sentence_to_compare=sentence_to_compare.split()))
-        else:
-            score.append(np.inf)
-    # score = [a if a != np.inf else 0 for a in score]
-    min_score_index = np.argmin(score)
-    return min_score_index, np.min(score), df.iloc[min_score_index]
-
-
-def calcualte_similairy(subs_sentence, sentence_to_compare):
+def calculate_similarity(subs_sentence, sentence_to_compare):
     return model.wmdistance(sentence_to_compare, subs_sentence)
 
 
+def find_sentence(sentences, sentence_to_compare='Lets have another beer!'):
+    # df = pandas.read_csv('subs_with_speaker-' + episode + '.csv')
+    # df = pandas.read_csv('segments.csv')
+    score = []
+    sentence_to_compare = clean_text(sentence_to_compare)
+    for text in sentences:
+        new_text = clean_text(text)
+        # print new_text
+        if new_text:
+            score.append(calculate_similarity(new_text, sentence_to_compare=sentence_to_compare))
+        else:
+            score.append(np.inf)
+    min_score_index = np.argmin(score)
+    # return min_score_index, np.min(score), df.iloc[min_score_index]
+    return min_score_index
+
+
 # stopwords = stopwords.words('english')
-# Remove their stopwords.
-read_scv()
+model = Word2Vec.load_word2vec_format('GoogleNews-vectors-negative300.bin', binary=True)
+
+## example
+# df = pandas.read_csv('segments.csv')
+# sentences = df.text
+# find_sentence(sentences)
