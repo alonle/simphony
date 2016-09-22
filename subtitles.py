@@ -13,9 +13,10 @@ def produce_dict(filename):
     end = []
     text = []
     for sub in srt:
-        start.append(to_ms(sub.start.to_time()))
-        end.append(to_ms(sub.end.to_time()))
-        text.append(sub.text)
+        if not sub.text.isspace():
+            start.append(to_ms(sub.start.to_time()))
+            end.append(to_ms(sub.end.to_time()))
+            text.append(sub.text)
     srt_dict = dict()
     srt_dict['start'] = start
     srt_dict['end'] = end
@@ -24,7 +25,7 @@ def produce_dict(filename):
     return srt_dict
 
 # Usage example:
-d = produce_dict('The Simpsons - S13 E17 Gump Roast.en.srt')
-import pandas
-pan = pandas.DataFrame.from_dict(d)
-pan.to_csv("The Simpsons.s13e17.csv")
+#d = produce_dict('21x13 - The Color Yellow.srt')
+#import pandas
+#pan = pandas.DataFrame.from_dict(d)
+#pan.to_csv("The Simpsons.s13e17.csv")
