@@ -19,8 +19,8 @@ def produce_dict(filename):
     text = []
     for sub in srt:
         if not sub.text.isspace() and not sub.text == '':
-            start.append(to_ms(sub.start.to_time()) + offset)
-            end.append(to_ms(sub.end.to_time()) + offset)
+            start.append(to_sec(sub.start.to_time()) + offset)
+            end.append(to_sec(sub.end.to_time()) + offset)
             text.append(sub.text)
     srt_dict = dict()
     srt_dict['start'] = start
