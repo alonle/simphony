@@ -1,0 +1,630 @@
+/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/bin/python2.7 /Users/Neta/PycharmProjects/Simphony/simphony/tran_to_subtitles.py
+0, UNKNOWN: <font color="#ffff00">Sync by honeybunny</font>
+<font color="#ffff00">www.addic7ed.com</font>
+/usr/local/lib/python2.7/site-packages/pandas/core/indexing.py:117: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  self._setitem_with_indexer(indexer, value)
+1, Willy: I'll have to use me explosives.
+2, Bart: Explosives? Great.
+3, Bart: If we put charges on
+the load-bearing walls,
+4, Bart: we can blow up detention hall
+5, Bart: while leaving the
+art room unharmed.
+6, Bart: Hmm? Hey, I like art, okay?
+7, Willy: I'm blowing up the stump,
+not the school.
+8, Bart: Right, right.
+9, Bart: You never saw that.
+10, Willy: Well done, boy.
+11, Bart: Wait, here comes the "mykeeyah."
+12, Willy: What's a mykeeyah?
+13, Skinner: My Kia!
+14, NONE: (both laughing)
+15, Willy: I'm laughing to fit in,
+but I still don't get it.
+16, Ralph: Miss Hoover,
+what's our lesson today?
+17, Ralph: Is it school?
+18, Miss Hoover: Oh, I don't know. Let's see.
+19, Miss Hoover: Family trees.
+20, Miss Hoover: Who here knows what
+a family tree is?
+21, Lisa: Oh, family trees--
+22, Lisa: the charts representing
+genealogical relationships
+23, Lisa: in a branching structure.
+24, Miss Hoover: Very good, Lisa.
+25, Miss Hoover: Class, your assignment
+over the weekend will be
+26, Miss Hoover: to make your own family tree,
+27, Miss Hoover: emphasizing any notable or
+distinguished ancestors.
+28, Lisa: I can't wait to see
+what noble branches lie
+29, Lisa: in the Simpson family foliage.
+30, NONE: (exclaims)
+31, Lisa: No, this can't be right.
+32, Lisa: Yech, they're all horrible.
+33, Homer: Yeah, the Simpson family is a
+long line of horse thieves,
+34, Homer: deadbeats, horse beats,
+dead thieves, and even a few...
+35, Homer: (whispering):...alcoholics.
+36, Lisa: There must have been
+some good ancestors.
+37, Lisa: Grampa,
+38, Lisa: don't you know any? Not a one.
+39, Abe: Maybe the nicest was
+Abigail Simpson,
+40, Abe: who you know as the
+Pittsburgh Poisoner.
+41, Homer: Listen, Lisa, you're going to find
+42, Homer: more than you bargained for.
+43, Homer: If I were you,
+I wouldn't dig into the past.
+44, Homer: I lived in some of that past,
+and I got out for a reason.
+45, Lisa: I won't give up.
+I have to know that somewhere
+46, Lisa: in the muck and the mire and
+the Pittsburgh Poisoners,
+47, Lisa: this family had a noble spark,
+48, Lisa: and I will find it, even if I
+have to go back to Adam and Eve.
+49, Abe: Oh, you mean
+50, Abe: Adam and Eve Simpson,
+51, Abe: or as you may know them,
+Julius and Ethel Rosenberg.
+52, NONE: (groans)
+53, NONE: (grunting)
+54, Lisa: Ooh! Whoa!
+55, Lisa: Well, are you going
+to help me or what?
+56, NONE: (cracking)
+57, Lisa: Thank you.
+58, Bart: So, what are you looking for?
+59, Lisa: Family records for a school
+project on genealogical...
+60, Bart: Hey, that's great.
+61, Lisa: Hey, Dad's idea pad.
+62, Lisa: <i>Bicentennial issue of
+Reader's Digest.</i>
+63, Lisa: Old ad for Buzz Cola.
+64, NONE: (gasps)
+65, Lisa: So dusty.
+66, Lisa: The "Diary of Eliza Simpson"?
+67, Lisa: This entry is dated April 14, 1860.
+68, Homer: I warn you: I don't
+know what's in there,
+69, Homer: but if it's about a Simpson,
+you ain't gonna be proud.
+70, Abe: Our ancestors were
+kicked out of Australia.
+71, Marge: Oh, stop.
+72, Marge: It's the journal of
+a sweet little girl.
+73, Marge: Keep reading, honey.
+74, Lisa: "Dearest diary,
+75, Lisa: today I am the happiest
+girl in Springfield..."
+76, Marge: See, all good.
+77, Lisa: "...because tomorrow I shall
+get my very first slave."
+78, NONE: (all gasp)
+79, Lisa: I can't believe we're
+descended from slave owners.
+80, Homer: Me neither.
+81, Homer: For once, the Simpsons
+were in management.
+82, Marge: Homer.
+83, Marge: Oh, read a little more, honey.
+84, Lisa: "Saturday, April 14, 1860.
+85, Lisa: "Dear Diary, I must be brief,
+86, Lisa: "for tonight is the grand ball
+87, Lisa: at Colonel Burns's plantation."
+88, Eliza: I shall dress myself in finery,
+89, Eliza: like a well-to-do Southern belle.
+90, Hiram: What's for dinner?
+91, Hiram: Possum. Oh, can't we have opossum?
+92, Mabel: Not on your salary.
+93, Hiram: I can't believe I buttoned
+my britches for this.
+94, Eliza: In my elegant gown,
+no one will suspect
+95, Eliza: that I'm actually
+on a mission to help
+96, Eliza: my very first slave
+escape to freedom.
+97, Lisa: Yes! She wasn't a slave owner.
+98, Lisa: Our family was on the
+Underground Railroad.
+99, Bart: We ran a subway station?
+100, Lisa: No, the Underground Railroad
+101, Lisa: was a bunch of people who
+helped slaves escape to Canada.
+102, Lisa: There were no actual trains
+and it wasn't under ground.
+103, Bart: Then they should've called it
+the Aboveground Normal-Road.
+104, Homer: Good point, Bart. Absolutely.
+105, Lisa: Hadn't thought of that before.
+Very good, Bart.
+106, Homer: That's a great story, Lisa!
+107, Homer: And you should stop
+reading right there.
+108, Lisa: Wh-What are you doing?
+109, Lisa: I want to know what happens next.
+110, Homer: Well, I don't.
+111, Homer: The motto of the Simpsons is:
+112, Homer: "Quit while you're ahead."
+113, Marge: I made it into a sampler.
+114, Marge: It's like when your
+father and I left
+115, Marge: <i>the movie Carrie right after she
+was crowned prom queen.</i>
+116, Marge: She was so happy.
+117, Marge: She had a lot of problems,
+but they were all behind her.
+118, Lisa: But, but, but-but-but...
+119, UNKNOWN: Time for bed, sweetie.
+120, NONE: (grunts in protest)
+121, UNKNOWN: <i>ELIZA: Lisa. Lisa, it's me.</i>
+122, Diary: <i>Eliza, the one good Simpson.</i>
+123, Diary: <i>I've got so much more to tell you.</i>
+124, Lisa: I must know.
+125, NONE: (panting)
+126, NONE: (humming)
+127, Homer: You still reading that thing?
+128, Homer: I'm warning you: When
+something goes into that vent,
+129, Homer: it shouldn't come out...
+130, Homer: ever.
+131, Lisa: <i>Well, I am reading it,
+and when I'm finished,</i>
+132, Lisa: I'm going to use Eliza's diary
+133, Lisa: for my "Black History
+Month" presentation.
+134, Marge: Ooh, good idea.
+135, Marge: Bart, what are you doing
+for Black History Month?
+136, Homer: I got an idea:
+You can march to Selma,
+137, Homer: and tell her she's ugly!
+138, NONE: (laughs)
+139, NONE: (gags)
+140, Lisa: Listen. "April 20, 1860.
+141, Lisa: "A week ago, I had no idea
+what the future would bring,
+142, Lisa: "which, I guess, is always
+true of everyone all the time.
+143, Lisa: "Anyway, last Saturday night,
+144, Lisa: I went to Colonel Burns's ball."
+145, NONE: ("Blue Danube Waltz" playing)
+146, Colonel Burns: I don't like this new Viennese
+dance craze, "the waltz."
+147, Colonel Burns: One, two, three, one, two, three...
+148, Colonel Burns: Where's the "four"?
+All music needs a four!
+149, Smithers: I'll have the orchestra adjust
+its time signature, sir.
+150, Colonel Burns: See that you do.
+151, UNKNOWN: * *
+152, NONE: (whispering)
+153, NONE: (music switches to four-four time)
+154, NONE: (all clamoring)
+155, UNKNOWN: <i>ELIZA: In the confusion,
+I slipped out of the ball</i>
+156, Eliza: <i>and made my way to the stables,</i>
+157, Eliza: <i>where I was to meet Mr.
+Burns's slave, Virgil.</i>
+158, Eliza: <i>But when I got to the stables,
+he was nowhere to be seen.</i>
+159, Eliza: Virgil?
+160, Eliza: Virgil, let's go.
+161, NONE: (screeching)
+162, NONE: (screaming)
+163, NONE: (grunts)
+164, Virgil: You look like you could
+use a little help.
+165, Lisa: Actually, I'm here to help you.
+166, Lisa: Follow me north to freedom.
+I don't think so.
+167, Lisa: Why? Because I'm young
+and I'm a woman?
+168, Virgil: No, because you're pointing south.
+169, NONE: (sheepish chuckle)
+170, Lisa: Oh, right, right. Sorry.
+171, Lisa: It's my first time.
+172, Virgil: That's all right. It's my 14th.
+173, Eliza: <i>As we made our way northward,</i>
+174, Eliza: <i>a couple of patrollers spotted us.</i>
+175, Man: Well, well, well.
+176, Man: Where do you think you're going?
+177, Lisa: (gasps) (gasps) Run!
+178, Man: After them! Obviously.
+179, Man 2: Well, you didn't say it.
+180, NONE: (horses neighing)
+181, Eliza: <i>Hearts pounding,
+we fled into the woods,</i>
+182, Eliza: <i>but their horses were fast.</i>
+183, NONE: (horses neighing)
+184, Eliza: <i>Escape seemed impossible.</i>
+185, NONE: (neighing)
+186, NONE: (crumbling)
+187, Marge: <i>MARGE: What happened next?</i>
+188, Lisa: Uh, bu... That's all theres.
+189, Lisa: The rest of the diary
+has turned to dust.
+190, NONE: (sniffs, sneezes)
+191, NONE: (snapping)
+192, Lisa: Oh! I'll never know if Eliza
+got Virgil safely to freedom.
+193, Marge: Cheer up, sweetie.
+194, Marge: Maybe we can find the
+answer in the library.
+195, Lisa: To the reference desk!
+196, Homer: The library?
+197, Homer: Bart, can you believe we're
+married to those nerds?
+198, NONE: (both laugh)
+199, UNKNOWN: <i>LIBRARIAN: There are no books</i>
+200, Librarian: about an Eliza Simpson,
+but I did find this.
+201, Marge: MARGE: Ooh, a cookbook.
+202, NONE: (Marge gasps)
+203, Lisa: That's Eliza's mother!
+204, Lisa: Martha, you are the best!
+205, Marge: MARGE: "Pork Butt in Cream,
+" "Snout-Fried Neck,"
+206, Marge: "Frog-Haunch," "Hooves Au Jus,"
+207, Marge: "Possum Pouch Pie..."
+208, Lisa: Please don't make those recipes.
+209, Marge: This one doesn't sound roadkill-y.
+210, Marge: And it comes with a story.
+211, Marge: "Many years ago,
+my daughter, Eliza,
+212, Marge: brought a runaway slave,
+Virgil, to the house."
+213, Lisa: (gasps) They made it
+back to the house?! How?
+214, Marge: <i>MARGE: The patrollers were too
+fast for Eliza and Virgil.</i>
+215, NONE: (owl hooting)
+216, Marge: <i>Luckily, they chanced upon a
+traveling circus...</i>
+217, UNKNOWN: <i>...where they were helped by a crusty,
+old clown.</i>
+218, Krusty: A little schmutz,
+a little schmear, and presto!
+219, Krusty: You're part of the
+under-clown railroad.
+220, Krusty: So, you got any talent?
+221, Clown: Well, I am a bit musical.
+222, Hiram: * The sun shines bright *
+223, Clown: * On my old Kentucky home. *
+224, Krusty: Rule number one:
+never be better than me.
+225, Krusty: And I'm pretty bad.
+226, Krusty: Nothing to see here--
+227, Krusty: just a couple of clowns,
+and the world's youngest bearded lady.
+228, Lisa as bearded lady: That I is.
+229, Krusty: Look at her any longer,
+you're gonna have to pay a nickel.
+230, Krusty: Why do I always ask for a nickel?
+231, Krusty: That's like 20 bucks in 2010 money.
+232, Lisa: Wait! All that was in the recipe?
+233, Marge: It was a footnote. See?
+234, Marge: "Anyway, I was very proud of Eliza,
+but my husband Hiram
+235, Marge: had not quite caught
+abolition fever."
+236, Hiram: Uh-uh, no way.
+237, Hiram: He'll get me in trouble.
+238, Virgil: Maybe you'll change
+your mind about me
+239, Virgil: after you try some
+of my wheel cakes.
+240, Hiram: Wheel cakes?
+241, Virgil: They're just
+honey-sweetened batter...
+242, Hiram: Go on.
+243, Virgil: ...deep-fried in hog lard.
+244, Hiram: Lard, you say.
+245, Virgil: Then dusted with powdered sugar.
+246, Hiram: (muffled): You can stay.
+247, Marge: You swear you'll help him?
+248, NONE: (gulps)
+249, Hiram: I give you my word as
+a Southern gentleman.
+250, Hiram: Whoo! (gulps)
+251, Lisa: So they did the right thing.
+252, Lisa: My quest is fulfilled.
+253, Lisa: Oufamily has heroes!
+254, Librarian: Shh.
+255, Lisa: (softly): Our family has heroes.
+256, NONE: (quiet chuckle)
+257, Ralph: Martin Luther King had a dream.
+258, Ralph: <i>Dreams are where Elmo
+and Toy Story</i>
+259, Ralph: had a party and I went there.
+260, Ralph: Yay. My turn is over.
+261, Skinner: One of your best, Ralph.
+262, Skinner: Next up, we have Simpson, L.
+263, Lisa: My Black History Month
+presentation is called
+264, Lisa: "The Simpsons:
+The First Family of Freedom."
+265, Lisa: No, no, no, not now! Quit, quit!
+266, Lisa: No, don't quit the program,
+just the update, you stupid...
+267, NONE: (awkward chuckle)
+268, UNKNOWN: Computers, right?
+269, UNKNOWN: Our story begins with a
+spunky little spitfire
+270, UNKNOWN: named Eliza Simpson.
+271, Lisa: The year was 1860,
+and the Underground Railroad was...
+272, NONE: ("The Battle Hymn of
+the Republic" playing)
+273, Lisa: ...though Hiram, Mabel, and Eliza
+274, Lisa: are no longer among us,
+their truth goes marching on.
+275, Lisa: (applause) Thank you.
+276, NONE: (applause stops) (one
+person clapping slowly)
+277, Milhouse: Bravo, Lisa.
+278, Milhouse: Very entertaining, but then again,
+fairy tales always are.
+279, NONE: (all gasping)
+280, Lisa: What are you talking about?
+281, Milhouse: I hold in my hand another diary.
+282, Milhouse: That of my great-great-great...
+283, NONE: (takes hit from inhaler)
+284, Milhouse: ...great-great grandfafa,
+Milford van Houten.
+285, NONE: (audience murmurs)
+286, UNKNOWN: "April 22nd, 1860..."
+287, UNKNOWN: <i>(strong Southern accent): I was reclining
+beneath a sarsaparilla tree,</i>
+288, Milford: <i>reading about one</i>
+289, Milford: <i>of Mr. Thomas Jefferson's
+marvelous inventions.</i>
+290, Milford: <i>when suddenly I heard
+quite a commotion</i>
+291, Milford: <i>coming from the Simpson residence.</i>
+292, Colonel Burns: BURNS: You're lying!
+293, Hiram: BURNS: Leave me alone!
+I have sells to crop.
+294, Colonel Burns: That's one of Virgil's
+sugar-sprinkled cake rings.
+295, Colonel Burns: Now, where is he?
+296, Hiram: I don't have to answer
+to some weak old man
+297, Hiram: with a walking stick.
+298, Hiram: Ahh! A beating stick!
+299, Colonel Burns: Brigand.
+300, Colonel Burns: (screams) Dastard.
+301, Colonel Burns: Renegade.
+302, Colonel Burns: Mooncalf.
+303, Hiram: I can't tell you where he is-
+I swore an oath.
+304, Colonel Burns: I see.
+305, Colonel Burns: You know, Simpson,
+every man has his price.
+306, Colonel Burns: No one is better at determining
+said price than yours truly.
+307, Colonel Burns: I would say your price is...
+308, Colonel Burns: a pleasant surprise.
+309, Hiram: That's exactly my price.
+310, Hiram: Your man Virgil is...
+311, Hiram: in...
+312, Eliza: Father, no!
+313, Hiram: Eliza, hold your tongue!
+314, Colonel Burns: Don't worry, I'll handle this one.
+315, Colonel Burns: Young lady, in this day and age,
+316, Colonel Burns: women only express their
+opinions in diaries
+317, Colonel Burns: to be found long
+after they're gone.
+318, Colonel Burns: From the day you were born,
+you were brought up
+319, Colonel Burns: to crave the approval of a man.
+320, Colonel Burns: And I know you really
+want to be a good girl,
+321, Colonel Burns: and good girls are
+seen and not heard.
+322, NONE: (stifled protest)
+323, Eliza: Yes, sir.
+324, Colonel Burns: That-a-girl.
+325, Colonel Burns: Now, where's my man?
+326, Hiram: In the turnip shed.
+327, Colonel Burns: Now, what's my surprise?
+328, Colonel Burns: Your surprise is a
+new pair of shoes.
+329, Hiram: Oh, my God, that
+surprise is so pleasant.
+330, NONE: (sobbing)
+331, UNKNOWN: <i>MILFORD (with Southern accent):
+After that fateful day,</i>
+332, Milhouse: (normal voice): "I could never
+even look at Eliza again."
+333, Milhouse: It didn't help that the next day,
+334, Milhouse: he drank bad well
+water and went blind.
+335, Lisa: No! You lie!
+336, Lisa: Eliza Simpson can't be a coward.
+337, Lisa: (voice breaking): She's the
+only decent ancestor I have.
+338, Willy: Ach. Take it outside, lassie.
+339, Willy: We've still got three
+"Jackie Robinsons"
+340, Willy: and a "Tuskegee Airmen" to go.
+341, Willy: (crying) And so many Obamas.
+342, Kids: (all impersonating
+Obama) Yes, we can.
+343, Kids: Audacity of hope. Let me be clear.
+344, Librarian: As I told you,
+we don't have any books
+345, Librarian: pertaining to Eliza Simpson.
+346, Lisa: But I need to prove
+that my ancestor
+347, Lisa: couldn't have backed
+down to Colonel Burns.
+348, Librarian: Colonel Burns?
+349, Mr Burns: Why, I haven't heard my
+father's name in years.
+350, NONE: (sobbing)
+351, Librarian: You know, you could
+try our film vault.
+352, Librarian 2: Huh?
+353, Librarian 2: We have a film vault?
+354, Librarian: It's where we hooked up
+during the Christmas party.
+355, Librarian 2: Oh.
+356, Interviewer on film: INTERVIEWER (on film): So,
+Miss Eliza, I understand
+357, Interviewer on film: you just turned 100.
+358, Eliza: It's been quite a life.
+359, Interviewer on film: Any regrets?
+360, Eliza: Just one.
+361, Eliza: When I was a girl,
+I witnessed a grave injustice,
+362, Eliza: but I held my tongue.
+363, Eliza: That pat on my head
+from a wicked man
+364, Eliza: has haunted me to this day.
+365, NONE: (sobbing)
+366, Lisa: There's no noble Simpson.
+367, Lisa: Oh, you were right, Dad.
+368, Lisa: I should have quit
+while I was ahead
+369, Lisa: instead of learning
+the horrible truth
+370, Lisa: about our family and Virgil.
+371, Abe: Aw, don't cry, meat pie.
+372, Abe: Things worked out pretty
+well for Virgil in the end.
+373, Lisa: What are you talking about?
+374, Lisa: Is there something
+you know about Virgil
+375, Lisa: that you haven't told us?
+376, Abe: I'll take that secret to my grave--
+377, Abe: or urn, or medical
+school dissecting table,
+378, Abe: or wherever you're dumping me.
+379, Homer: Listen, Wrinkles,
+380, Homer: if you know something that'll
+cheer up my little girl,
+381, Homer: you'd better spill it.
+382, Homer: Or I can make things very
+uncomfortable for you.
+383, Homer: That enough?
+384, Abe: Ah! Okay, I'll talk.
+385, UNKNOWN: D-Day is June 6th.
+Repeat: June 6th.
+386, Abe: Allied forces will land
+on the beaches of Normandy
+387, Abe: in the following order-- Utah,
+Omaha, Gold, Juno.
+388, Abe: Are you writing this down, Fritz?
+389, Homer: About Virgil.
+390, Abe: Oh, right.
+391, Abe: Well, Lisa, Mabel
+knew her husband well,
+392, Abe: <i>so she cooked up a little
+payback pie.</i>
+393, NONE: (gasps)
+394, Mabel: Get off my property, Colonel Burns.
+395, Mabel: And if I ever see you
+in these parts again...
+396, NONE: (shotgun cocking)
+397, Mabel: ...you're gonna be a Memphis belle.
+398, Colonel Burns: Very well. You may
+have won this round,
+399, Colonel Burns: but someday my history will be told
+400, Colonel Burns: by my descendants
+Ken and Ric Burns.
+401, Mabel: I knew you'd break your promise.
+402, Mabel: Now I'm taking Virgil to freedom.
+403, Virgil: <i>You defied your husband for me?</i>
+404, Virgil: <i>Man, this is the '60s.</i>
+405, Mabel: Now let's take you to a place
+406, Mabel: where a black man can
+blend in-- Canada.
+407, UNKNOWN: <i>GRAMPA: So, with those words,</i>
+408, Abe: <i>Mabel and Virgil headed north,</i>
+409, Abe: <i>but their journey was
+fraught with peril.</i>
+410, NONE: (gasps)
+411, Woman: Hmm...
+412, Virgil: Mabel, why don't I go on alone,
+and you go back to Hiram?
+413, Mabel: No.
+414, Mabel: There's no life for me with him.
+415, Mabel: I just need to disguise my hair.
+416, Mabel: But how?
+417, Abraham Lincoln: May I be of assistance?
+418, Mabel: Abraham Lincoln?! (gasps)
+419, Abraham Lincoln: Perhaps this hat will
+help disguise your hair.
+420, Mabel: Thank you.
+421, Mabel: How's it look?
+422, Abraham Lincoln: It makes you look like a
+potbellied stove. (annoyed grunt)
+423, Abraham Lincoln: Hey, hey, "Honest Abe."
+424, Abraham Lincoln: (laughs) Oh, I'm a riot.
+425, Abe: <i>GRAMPA: As the border drew close,
+so did Virgil and Mabel.</i>
+426, Virgil: After you.
+427, Abe: <i>By the time they crossed into Canada,
+things had changed.</i>
+428, NONE: <i>(theme from Ken Burns's The
+Civil War playing)</i>
+429, Abe: <i>Mabel she divorced Hiram</i>
+430, Abe: <i>and got one of his shoes
+in the settlement.</i>
+431, Abe: <i>Mabel and Virgil lived out the
+rest of their days in peace.</i>
+432, Abe: <i>They got married, and since
+Virgil had no last name,</i>
+433, Abe: <i>they both took the name Simpson</i>
+434, Abe: <i>so that Mabel could keep</i>
+435, Abe: <i>all her monogrammed table linens.</i>
+436, Abe: <i>And their son, Abraham Simpson,</i>
+437, Abe: <i>was my great-grandfather.</i>
+438, Abe: So you're actually descended
+from Virgil, not Hiram.
+439, Abe: Are ya happy?
+440, Lisa: Yes. I'm thrilled.
+441, Lisa: We've regained our family honor,
+442, Lisa: <i>and we're 1/64th black.</i>
+443, Bart: So that's why I'm so cool.
+444, Lisa: That's why my jazz is so smooth.
+445, Homer: And that's why I earn less
+than my white co-workers.
+446, Lisa: Grampa, why'd you try to
+447, Lisa: keep us from finding this out?
+448, Abe: Well, it's hard to explain
+this to a young person,
+449, Abe: but people of my
+generation are, you know...
+450, Lisa: Racists? That's it.
+451, Marge: I don't know what the big deal is.
+452, Marge: I mean, it never bothered any
+of you that my father's French.
+453, Marge: You know, Bouvier?
+454, Homer: So that's why I love
+drinking so much.
+455, Marge: I'm French, not you.
+456, Homer: <i>C'est la vie, baby.</i>
+457, NONE: ("Marseillaise" playing)
+458, NONE: (guzzling)
+459, UNKNOWN: <font color="#ffff00">Sync by honeybunny</font>
+<font color="#ffff00">www.addic7ed.com</font>
+16
+
+Process finished with exit code 0
