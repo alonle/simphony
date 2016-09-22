@@ -2,14 +2,19 @@ __author__ = 'Vaio-190X'
 
 import pysrt
 
+
+def to_ms(t):
+    m,s,micros = t.minute, t.second, t.microsecond
+    return ( micros + 1000000*s + 60*1000000*m ) / 1000000
+
 def produce_dict(filename):
-    srt = pysrt.open(filename)
+    srt = pysrt.open(filename, "iso-8859-1")
     start = []
     end = []
     text = []
     for sub in srt:
-        start.append(sub.start.ordinal)
-        end.append(sub.end.ordinal)
+        start.append(to_ms(sub.start.to_time()))
+        end.append(to_ms(sub.end.to_time()))
         text.append(sub.text)
     srt_dict = dict()
     srt_dict['start'] = start
