@@ -5,7 +5,7 @@ import pysrt
 
 def to_ms(t):
     m,s,micros = t.minute, t.second, t.microsecond
-    return ( micros + 1000000*s + 60*1000000*m ) / 1000000
+    return ( micros + 1000000*s + 60*1000000*m ) / 1000000.0
 
 def produce_dict(filename):
     srt = pysrt.open(filename, "iso-8859-1")
