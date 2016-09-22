@@ -53,10 +53,10 @@ def read_subtitles(filepath, df):
     count_uk = 0
     for i, row in sub.iterrows():
         text = row.text
-        if len(text) > 1:
+        if text is not 'nan' and len(text) > 1:
             sentence = clean_text(text)
             new_loc, spe_res = find_speaker(sentence, df, loc)
-            if i == 263:
+            if i == 148:
                 pass
             # if text[0] is not ('(' or '<'):
             if sentence != '':
@@ -68,7 +68,7 @@ def read_subtitles(filepath, df):
                     count_uk += 1
             else:
                 speaker = 'NONE'
-        print i, speaker, text
+        print str(i) + ', ' + speaker + ': ' + text
     print count_uk
 
 def build_df(filepath):
@@ -86,8 +86,8 @@ def build_df(filepath):
     return pandas.DataFrame.from_dict(d)
 
 
-transcript = 'subscript_s21e13.txt'
+transcript = 'transcript_s13e17.txt'
 df = build_df(transcript)
 
-subtitles = 'The Simpsons.s21e13.csv'
+subtitles = 'The Simpsons.s13e17.csv'
 read_subtitles(subtitles, df)

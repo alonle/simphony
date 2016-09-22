@@ -1,6 +1,7 @@
 __author__ = 'Vaio-190X'
 
 import pysrt
+import pandas
 
 
 def to_ms(t):
@@ -13,7 +14,7 @@ def produce_dict(filename):
     end = []
     text = []
     for sub in srt:
-        if not sub.text.isspace():
+        if not sub.text.isspace() and not sub.text == '':
             start.append(to_ms(sub.start.to_time()))
             end.append(to_ms(sub.end.to_time()))
             text.append(sub.text)
@@ -25,7 +26,6 @@ def produce_dict(filename):
     return srt_dict
 
 # Usage example:
-#d = produce_dict('21x13 - The Color Yellow.srt')
-#import pandas
-#pan = pandas.DataFrame.from_dict(d)
-#pan.to_csv("The Simpsons.s13e17.csv")
+# d = produce_dict('The Simpsons - S13 E17 Gump Roast.en.srt')
+# pan = pandas.DataFrame.from_dict(d)
+# pan.to_csv("The Simpsons.s13e17.csv")
