@@ -51,6 +51,7 @@ def read_subtitles(filepath, df):
     sub = pandas.read_csv(filepath)
     loc = 0
     count_uk = 0
+    speakers = []
     for i, row in sub.iterrows():
         text = row.text
         if text is not 'nan' and len(text) > 1:
@@ -61,15 +62,19 @@ def read_subtitles(filepath, df):
             # if text[0] is not ('(' or '<'):
             if sentence != '':
                 if not spe_res.score or spe_res.score > 0.5:
-                    speaker = spe_res.speaker
+                    speakers.append(spe_res.speaker)
                     loc = new_loc
                 else:
-                    speaker = 'UNKNOWN'
+                    speakers.append('UNKNOWN')
                     count_uk += 1
             else:
-                speaker = 'NONE'
-        print str(i) + ', ' + speaker + ': ' + text
+                speakers.append('NONE')
+        else:
+            speakers.append('NONE')
+        print str(i) + ', ' + speakers[i] + ': ' + text
     print count_uk
+    return speakers
+
 
 def build_df(filepath):
     text = []
@@ -86,8 +91,12 @@ def build_df(filepath):
     return pandas.DataFrame.from_dict(d)
 
 
-transcript = 'transcript_s13e17.txt'
+episode = 's21e13'
+transcript = 'transcript_' + episode + '.txt' # 'transcript_s13e17.txt'
 df = build_df(transcript)
-
-subtitles = 'The Simpsons.s13e17.csv'
-read_subtitles(subtitles, df)
+subtitles = 'The Simpsons.' + episode + '.csv'
+speakers = read_subtitles(subtitles, df)
+sub = pandas.read_csv(subtitles)
+sub['speaker'] = speakers
+sub = sub.drop('Unnamed: 0', 1)
+sub.to_csv('subs_with_speaker-' + episode + '.csv')
